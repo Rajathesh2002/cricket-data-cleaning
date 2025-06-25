@@ -11,7 +11,7 @@ This project demonstrates a real-world data cleaning and analysis workflow on hi
 🔍 Analysis of player performance using aggregation, filtering, and group-based insights
 
 📈 Visualizations to showcase top scorers, consistent players, and country-wise stats
-📂 Dataset: `cricket_raw_data.csv` included for reproducibility and testing.
+
 
 Tools Used
 Python
